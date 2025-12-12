@@ -71,13 +71,10 @@ jupyter nbextension enable --py --sys-prefix powerbiclient
 
 Para proteger tus credenciales, crea un archivo `.env` en la raíz del proyecto:
 ```env
-WORKSPACE_ID=tu-workspace-id
-REPORT_ID=tu-report-id
-DATASET_ID=tu-dataset-id
-MYSQL_USER=tu-usuario
-MYSQL_PASSWORD=tu-password
-MYSQL_HOST=localhost
-MYSQL_DATABASE=tu-database
+user=tu-usuario
+password=tu-password
+host=localhost
+database=tu-database
 ```
 
 **Importante**: Añade `.env` y `config.txt` a tu archivo `.gitignore` para no subir credenciales a GitHub.
