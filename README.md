@@ -17,7 +17,7 @@ Esta integración permite resolver estos 4 escenarios en un solo flujo de trabaj
 
 ## 🚀 Casos de Uso Empresariales
 
-### 📊 Caso 1: Validación de Datos
+### Caso 1: Validación de Datos
 **Escenario**: El cliente dice "Las ventas por canal no coinciden con los números que tengo"
 
 **Solución**:
@@ -25,7 +25,7 @@ Esta integración permite resolver estos 4 escenarios en un solo flujo de trabaj
 - Compararlos con la base de datos original (MySQL, SQL Server, etc.)
 - Identificar discrepancias en segundos
 
-### 🎨 Caso 2: Auditoría Visual Automática
+### Caso 2: Auditoría Visual Automática
 **Escenario**: "Los usuarios no encuentran la información más importante en el dashboard"
 
 **Solución**:
@@ -34,7 +34,7 @@ Esta integración permite resolver estos 4 escenarios en un solo flujo de trabaj
 - Evaluar mejores prácticas de UX/UI con puntuación automática
 - Recibir recomendaciones concretas de mejora
 
-### 🔮 Caso 3: Análisis Avanzado (Forecasting)
+### Caso 3: Análisis Avanzado (Forecasting)
 **Escenario**: "Necesito un forecast de los próximos 90 días de ventas"
 
 **Solución**:
@@ -43,7 +43,7 @@ Esta integración permite resolver estos 4 escenarios en un solo flujo de trabaj
 - Generar predicciones con intervalos de confianza
 - Crear nuevo reporte con los resultados
 
-### ⚡ Caso 4: Prototipado Rápido
+### Caso 4: Prototipado Rápido
 **Escenario**: "Necesito un reporte de ventas por región y producto para una reunión en 30 minutos"
 
 **Solución**:
@@ -79,7 +79,7 @@ database=tu-database
 
 **Importante**: Añade `.env` y `config.txt` a tu archivo `.gitignore` para no subir credenciales a GitHub.
 
-## 🎁 Recursos Adicionales
+## Recursos Adicionales
 
 - [Documentación oficial powerbiclient](https://github.com/microsoft/powerbi-jupyter)
 
